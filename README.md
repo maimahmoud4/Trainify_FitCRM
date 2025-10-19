@@ -3,6 +3,9 @@
 **Trainify** is a frontend-only POC (proof-of-concept) web app for managing fitness clients.  
 This project was built to satisfy the CSCE 4502 assignment requirements: a responsive HTML/CSS frontend with three pages (Home, Add Client, Client List).
 
+- **Live Demo:** [https://resilient-kitsune-e3911c.netlify.app](https://resilient-kitsune-e3911c.netlify.app)  
+- **UI/UX Design (Figma):** [https://www.figma.com/design/WF5zBuADGyC6LCQiNFjOr5/Trainify?node-id=0-1&t=q46DopiFMz8nSPug-1](https://www.figma.com/design/WF5zBuADGyC6LCQiNFjOr5/Trainify?node-id=0-1&t=q46DopiFMz8nSPug-1)
+
 
 ## Project Structure
 ```
@@ -25,9 +28,16 @@ trainify/
 - Uses **Poppins** font from Google Fonts to match Figma style.
 - No backend — Add/Edit/Delete are placeholders as required by the assignment.
 
-## How to run locally
-1. Clone or download the repository.
-2. Open `index.html` in your browser (double-click the file or use a local HTTP server such as `Live Server`).
-3. Navigate between pages using the top navigation links.
+## How to Run Locally
+1. Clone or download this repository.  
+2. Open the project folder (`trainify/`).  
+3. Double-click `index.html` to open it in your browser.  
+   - *(Optional)* Use a local HTTP server such as **Live Server** in VS Code for smoother navigation.  
+4. Use the top navigation bar to move between pages.
+
+- **Developed by:** Mai Mahmoud  
+- **Course:** CSCE 4502 — Frontend Web Assignment  
+- **Institution:** The American University in Cairo (AUC)
+
 
 
